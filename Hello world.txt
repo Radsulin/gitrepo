@@ -1,4 +1,8 @@
+print("Glad too see you")
+
+=======
 print("Hello world;")
 
 print("Hello my dear friend;")
+>>>>>>> master
 
